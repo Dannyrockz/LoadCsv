@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoadCsv</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="firstName">First Name: %s</string>
+    <string name="lastName">Last Name: %s</string>
+    <string name="issues">Issues: %s</string>
+    <string name="dob">Date Of Birth: %s</string>
+</resources>
